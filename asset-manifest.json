@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad1560d6.chunk.css",
+    "main.js": "/static/js/main.d261f75e.chunk.js",
+    "main.js.map": "/static/js/main.d261f75e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2ca0876f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2ca0876f.js.map",
+    "static/css/2.c566fa06.chunk.css": "/static/css/2.c566fa06.chunk.css",
+    "static/js/2.a4f8d52f.chunk.js": "/static/js/2.a4f8d52f.chunk.js",
+    "static/js/2.a4f8d52f.chunk.js.map": "/static/js/2.a4f8d52f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.17ab40f6ea715e75f4ae8560fbdbb0ff.js": "/precache-manifest.17ab40f6ea715e75f4ae8560fbdbb0ff.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.c566fa06.chunk.css.map": "/static/css/2.c566fa06.chunk.css.map",
+    "static/css/main.ad1560d6.chunk.css.map": "/static/css/main.ad1560d6.chunk.css.map",
+    "static/js/2.a4f8d52f.chunk.js.LICENSE.txt": "/static/js/2.a4f8d52f.chunk.js.LICENSE.txt",
+    "static/media/car.png": "/static/media/car.9ba94743.png",
+    "static/media/css.png": "/static/media/css.d0ac4ee8.png",
+    "static/media/flag1.png": "/static/media/flag1.f2fa45c1.png",
+    "static/media/flag2.png": "/static/media/flag2.6ec53072.png",
+    "static/media/flag3.png": "/static/media/flag3.4bbfc660.png",
+    "static/media/git.png": "/static/media/git.cc920f76.png",
+    "static/media/grad.png": "/static/media/grad.d27a564a.png",
+    "static/media/html.png": "/static/media/html.a08eecd3.png",
+    "static/media/jq.png": "/static/media/jq.56be08fa.png",
+    "static/media/kanban.png": "/static/media/kanban.9a3ada41.png",
+    "static/media/menuclose.png": "/static/media/menuclose.40e3f74b.png",
+    "static/media/mysql.png": "/static/media/mysql.a21db81d.png",
+    "static/media/nodejs.png": "/static/media/nodejs.f174a580.png",
+    "static/media/portrait.png": "/static/media/portrait.8e1a139d.png",
+    "static/media/react.png": "/static/media/react.603f8938.png",
+    "static/media/redux.png": "/static/media/redux.b0831078.png",
+    "static/media/sitelogo.png": "/static/media/sitelogo.c0c53f62.png",
+    "static/media/webpack.png": "/static/media/webpack.3e55d35f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ca0876f.js",
+    "static/css/2.c566fa06.chunk.css",
+    "static/js/2.a4f8d52f.chunk.js",
+    "static/css/main.ad1560d6.chunk.css",
+    "static/js/main.d261f75e.chunk.js"
+  ]
+}
